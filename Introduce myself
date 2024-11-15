@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dự án - Bùi Tiến Hoàng</title>
+</head>
+<body>
+    <header>
+        <h1>Dự án của tôi</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Trang chủ</a></li>
+                <li><a href="about.html">Giới thiệu</a></li>
+                <li><a href="contact.html">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Danh sách Dự án</h2>
+            <ul>
+                <li>Dự án 1: Template du lịch cho khách hàng</li>
+                <li>Dự án 2: Phân tích điểm đến du lịch</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Bùi Tiến Hoàng</p>
+    </footer>
+</body>
+</html>
